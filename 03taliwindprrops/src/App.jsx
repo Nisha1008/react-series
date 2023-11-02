@@ -14,6 +14,8 @@ function App() {
       {/* <Card channel="chai" someObj={myObj} myArr={newArr} /> */}
       {/* <Card username="nisha" btnText="click me" /> */}
       <Card username="nisha" />
+
+      <h1 className="bg-green-600 p-4">hello</h1>
     </>
   )
 }
